@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Jakub Wolkiewicz',
     photo: '/kuba.jpg',
-    bio: 'a few details about Kuba and his interests',
+    bio: 'this is a cycling blog',
     contacts: {
       email: '',
       facebook: '#',
